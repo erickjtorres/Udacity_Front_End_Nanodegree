@@ -1,0 +1,39 @@
+.font-style{
+    font-family: "Roboto", sans-serif;
+    color: #2d3c49;
+    font-weight: 400;
+
+}
+
+.logo-positioning {
+    padding-top: 4%;
+
+}
+
+.header-line {
+    width: 100%;
+    height: 3px;
+    background: #7d97ad;
+    margin: 2% auto 2% auto;
+
+}
+
+.text-light {
+    color: #7d97ad;
+
+}
+
+.text-thin {
+    font-weight: 300;
+
+}
+
+.text-spacing {
+    letter-spacing: 4px;
+
+}
+
+.text-indent {
+    padding-left: 6px;
+
+}
