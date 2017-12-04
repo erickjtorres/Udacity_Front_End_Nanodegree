@@ -19,7 +19,7 @@ Projects I created for Udacity's Front End Nanodegree
 * CSS Frameworks
 * Javascript and Jquery
 * Git and Github
-* Optimizing Website
+* Optimizing Websites
 * Javascript Frameworks and APIs
 
 
