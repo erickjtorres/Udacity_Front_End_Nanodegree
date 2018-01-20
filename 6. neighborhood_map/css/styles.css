@@ -1,0 +1,109 @@
+#map {
+  width: 85%;
+  height: 100%;
+  left: 15%;
+  z-index: 0;
+}
+
+html, body {
+  font-family: Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  margin-left: 10%;
+  text-align: center;
+  width: 80%;
+}
+
+button {
+  position: absolute;
+  left: 15%;
+  z-index: 1;
+}
+
+#sidebar-title {
+  margin: 8% 8% 8% 8%;
+  color: white;
+}
+
+.sidebar {
+  position: fixed;
+  width: 15%;
+  height: 100%;
+  background-color: #151719;
+}
+
+.sidebar ul {
+  padding: 0%;
+}
+
+.sidebar ul li {
+  color: rgba(230, 230, 230, 0.9);
+  list-style: none;
+  padding: 5% 0% 5% 5%;
+  font-size: 10px;
+  left: -200px;
+}
+
+.sidebar ul li:hover {
+  background-color: black;
+}
+
+.invisibleClass {
+  visibility: hidden;
+}
+
+
+.toggle-button {
+  position: absolute;
+  z-index: 2;
+  left: 15%;
+  top: 1%;
+  background-color: white;
+  visibility: visible;
+}
+
+@media screen and (max-width: 500px) {
+  .toggle-button {
+    position: absolute;
+    z-index: 2;
+    left: 70%;
+    top: 5%;
+    background-color: white;
+    visibility: visible;
+  }
+
+  .sidebar {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 20%;
+  }
+
+  .sidebar ul li:hover {
+    background-color: #4c4c4c;
+  }
+
+  .sidebar ul {
+    background-color: black;
+  }
+
+  .sidebar-title {
+    font-size: 4px;
+  }
+
+  #map {
+    width: 100%;
+    height: 80%;
+    top: 20%;
+    bottom: 40%;
+    right: 0%;
+    left: 0%;
+    z-index: 0;
+  }
+
+
+}
