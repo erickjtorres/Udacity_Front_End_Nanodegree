@@ -1,6 +1,6 @@
-# Udacity_Front End Nanodegree
+# Udacity Front End Nanodegree
 Projects I created for Udacity's Front End Nanodegree
-(Started: July 2017)
+(Started: July 2017, Finished: December 2017)
 
 ## Projects
 1. Animal Trading Cards 
@@ -11,8 +11,6 @@ Projects I created for Udacity's Front End Nanodegree
 6. Neighborhood Map
 7. Feed Reader Testing
 
-**Note: I am still working in the nanodegree. Projects 5-7 are still needed to be completed**
-
 ## What I learned
 * HTML and CSS
 * Responsive Web Design
@@ -21,5 +19,9 @@ Projects I created for Udacity's Front End Nanodegree
 * Git and Github
 * Optimizing Websites
 * Javascript Frameworks and APIs
+
+## Certificate
+https://confirm.udacity.com/NGHAAZLG
+![alt text](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/bc8f8818-434c-4cfc-95f3-64131e8f55d8.svg)
 
 
